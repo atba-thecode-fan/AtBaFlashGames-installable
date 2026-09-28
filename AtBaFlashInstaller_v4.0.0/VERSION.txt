@@ -1,0 +1,12 @@
+AtBa Flash Installer
+Version: 4.0.0
+Release Date: 2015
+Developer: AtBa Studios
+Copyright: ©2009-2015 AtBa Studios. All rights reserved.
+
+Build Information:
+- Supports multiple game installations
+- Compatible with Flash Player 9+
+- Cross-platform support (Windows, macOS, Linux)
+
+REQUIRED: Adobe Flash Player 9 or higher MUST be installed before using this installer.
