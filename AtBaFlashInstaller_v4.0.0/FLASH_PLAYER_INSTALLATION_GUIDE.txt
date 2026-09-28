@@ -1,0 +1,69 @@
+FLASH PLAYER INSTALLATION GUIDE
+================================
+
+This installer REQUIRES Adobe Flash Player 9 or higher to be installed on your system.
+
+STEP 1: CHECK IF FLASH PLAYER IS INSTALLED
+===========================================
+
+Windows:
+1. Visit: https://www.adobe.com/software/flash/about/
+2. If Flash Player is installed, you'll see the version number
+3. If not installed, you'll see a message saying Flash is not installed
+
+macOS:
+1. Open System Preferences
+2. Go to Security & Privacy
+3. Look for Flash Player in the list of plugins/extensions
+4. Or visit: https://www.adobe.com/software/flash/about/
+
+Linux:
+1. Open Terminal
+2. Run: which flashplugin-installer
+3. Or check your package manager (apt, yum, pacman, etc.)
+
+STEP 2: INSTALL FLASH PLAYER IF NEEDED
+=======================================
+
+If Flash Player is NOT installed:
+
+1. Visit Adobe Flash Player download page
+2. Download Flash Player for your operating system
+3. Run the installer executable
+4. Follow Adobe's installation instructions
+5. Restart your computer
+6. Verify installation using Step 1 above
+
+STEP 3: VERIFY INSTALLATION
+===========================
+
+After installing Flash Player:
+1. Restart your web browser
+2. Visit: https://www.adobe.com/software/flash/about/
+3. Confirm you see a version number (9.0 or higher)
+4. Now you can run AtBaFlashInstaller.exe
+
+TROUBLESHOOTING
+===============
+
+Problem: "Flash Player not found" error
+Solution: 
+- Restart your computer after installing Flash Player
+- Check the Adobe website to verify installation
+- Try installing Flash Player again
+
+Problem: "Incorrect version" error
+Solution:
+- Update Flash Player to version 9 or higher
+- Remove old versions before installing new ones
+
+Problem: Installer won't start
+Solution:
+- Verify Flash Player is installed (use Step 1)
+- Run installer as Administrator
+- Check Windows/System requirements
+
+For more help, visit: https://www.adobe.com/products/flashplayer/end-of-life.html
+
+---
+©2009-2015 AtBa Studios. All rights reserved.
